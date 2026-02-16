@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="FinanceHub icon">
+  <rect width="64" height="64" rx="14" fill="#4f46e5"/>
+  <path d="M20 40l10-16 8 12 6-10 10 16" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="20" cy="40" r="3" fill="#ffffff"/>
+  <circle cx="30" cy="24" r="3" fill="#ffffff"/>
+  <circle cx="38" cy="36" r="3" fill="#ffffff"/>
+  <circle cx="44" cy="26" r="3" fill="#ffffff"/>
+  <circle cx="54" cy="42" r="3" fill="#ffffff"/>
+</svg>

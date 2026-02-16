@@ -1,0 +1,34 @@
+{
+  "name": "finance-hub",
+  "version": "1.0.0",
+  "description": "Dashboard financeiro interativo desenvolvido com Vanilla JavaScript e Tailwind CSS",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "npx live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "tailwind",
+    "dashboard",
+    "finances",
+    "vanilla-js",
+    "localStorage",
+    "responsive"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/finance-hub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/finance-hub/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/finance-hub#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
