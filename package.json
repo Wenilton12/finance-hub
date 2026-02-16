@@ -18,16 +18,16 @@
     "localStorage",
     "responsive"
   ],
-  "author": "Seu Nome",
+  "author": "Wenilton Ferreira",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/seu-usuario/finance-hub.git"
+    "url": "https://github.com/Wenilton12/finance-hub.git"
   },
   "bugs": {
-    "url": "https://github.com/seu-usuario/finance-hub/issues"
+    "url": "https://github.com/Wenilton12/finance-hub/issues"
   },
-  "homepage": "https://github.com/seu-usuario/finance-hub#readme",
+  "homepage": "https://github.com/Wenilton12/finance-hub#readme",
   "devDependencies": {
     "live-server": "^1.2.2"
   }
