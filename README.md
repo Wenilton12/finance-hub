@@ -141,6 +141,6 @@ finance-hub/
 
 **Wenilton Ferreira** - Desenvolvedor em constante evolução.
 
-www.linkedin.com/in/wenilton-ferreira-baa012207 | [\[Seu Portfólio\]](https://weniltonweb.com.br/)
+www.linkedin.com/in/wenilton-ferreira-baa012207 | https://weniltonweb.com.br/
 
 Desenvolvido com foco em fundamentos sólidos de Front-end e UX.
